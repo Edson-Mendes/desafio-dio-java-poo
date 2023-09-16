@@ -28,3 +28,9 @@ Com base no vídeo de lançamento do iPhone conforme link abaixo, elabore em uma
   - Atualizar Página
   
 Em seguida crie as classes e interfaces no formato de arquivos .java
+
+## Resolução do Desafio
+
+### Diagrama UML de classes
+
+<img height="500px" src="./diagram/diagrama_desafio_dio_fundo_branco.png"/>
